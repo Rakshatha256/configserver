@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+
+account:
+  message: "Welcome to Account Service in Production"
+  contactDetails:
+    name: "Bhairava"
+    email: "Bhairava123@gmail.com"
+  oncallsupport:
+    - (555)2222222222
+    - 2222222222
