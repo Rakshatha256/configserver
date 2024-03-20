@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+account:
+  message: "Welcome to Account Service in Testing Environment"
+  contactDetails:
+    name: "xyz"
+    email: "xyz123@gmail.com"
+  oncallsupport:
+    - (555)123456
+    - 1234567890
