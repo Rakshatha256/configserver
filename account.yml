@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+  build:
+    version: "1.0"
+
+account:
+    message: "Welcome to Account Service"
+    contactDetails:
+        name: "abc"
+        email: "abc123@gmail.com"
+    oncallsupport:
+      - (555)5551234
+      - 12345678
