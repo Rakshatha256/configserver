@@ -3,7 +3,7 @@ build:
 
 
 account:
-  message: "Welcome to Account Service in Prod"
+  message: "Welcome"
   contactDetails:
     name: "Bhairava"
     email: "Bhairava123@gmail.com"
