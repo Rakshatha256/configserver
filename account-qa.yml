@@ -4,8 +4,8 @@ build:
 account:
   message: "Hi welcome to Account Service in Testing Environment "
   contactDetails:
-    name: "uvwxyz"
-    email: "uvwxyz123@gmail.com"
+    name: "wxyz"
+    email: "wxyz123@gmail.com"
   oncallsupport:
     - (555)23456
     - 234567890
