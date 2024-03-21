@@ -1,11 +1,11 @@
 build:
-  version: "2.0"
+  version: "3.0"
 
 account:
-  message: "Welcome to Account Service in Testing Environment"
+  message: "Hi welcome to Account Service in Testing Environment"
   contactDetails:
-    name: "xyz"
-    email: "xyz123@gmail.com"
+    name: "uvwxyz"
+    email: "uvwxyz123@gmail.com"
   oncallsupport:
-    - (555)123456
-    - 1234567890
+    - (555)23456
+    - 234567890
