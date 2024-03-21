@@ -3,7 +3,7 @@ build:
 
 
 account:
-  message: "Welcome to production environment"
+  message: "Welcome to production env"
   contactDetails:
     name: "Bhairava"
     email: "Bhairava123@gmail.com"
