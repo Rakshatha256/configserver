@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 account:
-  message: "Hi welcome to Account Service in Testing "
+  message: "Hi welcome to Account Service in Testing Environment "
   contactDetails:
     name: "uvwxyz"
     email: "uvwxyz123@gmail.com"
